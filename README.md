@@ -6,6 +6,10 @@ Plutonium plugin that brings the Black Ops II Wii U aiming to PC multiplayer.
 - Aiming down sights uses the Wii U pointer.
 - Wii U red dot reticle, rocket launcher ring, and floating sniper scope.
 
+![](images/screenshot1.jpg)
+![](images/screenshot2.jpg)
+![](images/screenshot3.jpg)
+
 ## Install
 
 Copy `wiiuaim.dll` to `%LOCALAPPDATA%\Plutonium\plugins`.
