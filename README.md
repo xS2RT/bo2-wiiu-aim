@@ -8,11 +8,12 @@ Plutonium plugin that brings the Black Ops II Wii U aiming to PC multiplayer.
 
 ## Install
 
+### LAN mode only
 Copy `wiiuaim.dll` to `%LOCALAPPDATA%\Plutonium\plugins`.
 
 Settings: `%LOCALAPPDATA%\Plutonium\wiiuaim\wiiuaim.ini`
 
-Multiplayer only. Use in LAN/private matches.
+Multiplayer only.
 
 ## Screenshots
 
